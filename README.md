@@ -1,4 +1,4 @@
-#Purpose: 
+# Purpose: 
 
 To build a data model to support analysis of stock market and real estate data. Specifically, to see what correlations, if any, can be drawn between specific stock performances and real estate trends. I forsee this data being useful for contructing analytical models, reports, and tables for drawing conclusions regarding this topic.
 
