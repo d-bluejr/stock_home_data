@@ -7,8 +7,8 @@ import helpers
 
 
 # Defining the plugin class
-class UdacityPlugin(AirflowPlugin):
-    name = "udacity_plugin"
+class StockHomePlugin(AirflowPlugin):
+    name = "stock_home_plugin"
     operators = [
         operators.StageToRedshiftOperator,
         operators.LoadFactOperator,
